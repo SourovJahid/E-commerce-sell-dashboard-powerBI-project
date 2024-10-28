@@ -1,10 +1,13 @@
 ![Dashboard View](https://github.com/user-attachments/assets/2227572f-309f-40bb-8933-fb080a8a7e71)
 
 E-Commerce Sales Dashboard
+
 Overview
 This project provides an interactive and insightful E-Commerce Sales Dashboard built using Power BI. The dashboard aggregates and visualizes sales data to support data-driven decisions by providing a comprehensive view of key performance indicators (KPIs) such as sales trends, customer segmentation, product performance, and regional sales distribution.
 
+
 Features
+
 Sales Overview: Get an overview of total sales, revenue, and profit across various time periods.
 Customer Insights: Segment customers by demographics, purchasing behavior, and profitability.
 Product Performance: Track the performance of top products, including sales volume and profitability.
@@ -16,7 +19,9 @@ Data Source: Data for this project is expected to be sourced from an e-commerce 
 Getting Started
 To view and interact with the dashboard, you need Power BI Desktop installed on your machine.
 
+
 Prerequisites
+
 Power BI Desktop: Download and install Power BI Desktop.
 Installation
 Clone the repository:
